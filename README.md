@@ -32,4 +32,5 @@ python 223d.py -h
 ```
 python 223d.py --Resolution 30 --Base 1 --TextA PATRIS --TextB PREDICTUM
 ```
-
+# Zukunft?
+Eventuell wird es eine verbesserte version in C/C++ geben jedoch kann ich nichts versprechen, da wir momentan wenig zeit haben...
