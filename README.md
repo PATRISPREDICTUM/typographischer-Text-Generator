@@ -1,7 +1,7 @@
 # typographischer-Text-Generator
-### Sorry für den unsaubern code! Es handelt sich nur um einen Prototypen
+### Sorry für den unsaubern Code! Jedoch ist es nur einen Prototyp...
 kleines Python Projekt aus 2019 um 2 Texte zu einem 3d Modell zusammen zu fügen.
-Als output erhält man ein .obj file, welches beide Texte kombiniert
+Als Output erhält man ein .obj File, welches beide Texte kombiniert
 
 ## Installation
 python 3.7
@@ -20,9 +20,9 @@ python 223d.py -h
 ```
 ### Agrumente
 
-`--Resolution int | default 40` Regelt sie voxel auflösung des 3D objektes. je höher die Auflösung umso länger dauert das Generieren des Objektes
+`--Resolution int | default 40` Regelt sie Voxel Auflösung des 3-D Objektes. Je höher die Auflösung, umso länger dauert das Generieren des Objektes
 
-`--Base bool | default FALSE` Generiert eine Platform unter dem Text
+`--Base bool | default FALSE` Generiert eine Plattform unter dem Text
 
 `--TextA | default "ERROR"` Gibt den TextA an
 
@@ -33,4 +33,5 @@ python 223d.py -h
 python 223d.py --Resolution 30 --Base 1 --TextA PATRIS --TextB PREDICTUM
 ```
 # Zukunft?
-Eventuell wird es eine verbesserte version in C/C++ geben jedoch kann ich nichts versprechen, da wir momentan wenig zeit haben...
+Eventuell wird es eine verbesserte Version in C/C++ geben, jedoch kann ich nichts versprechen, da wir momentan wenig zeit haben ...
+Jedoch hat das Erstellen von diesem Projekt viel spaß gemacht
