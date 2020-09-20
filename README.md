@@ -4,7 +4,9 @@ kleines Python Projekt aus 2019 um 2 Texte zu einem 3d Modell zusammen zu fügen
 Als Output erhält man ein .obj File, welches beide Texte kombiniert
 
 ## Installation
+## Dependencies
 python 3.7
+
 Um die Module zu Installieren:
 
 ```
