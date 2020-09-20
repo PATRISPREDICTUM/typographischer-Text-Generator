@@ -34,6 +34,14 @@ python 223d.py -h
 ```
 python 223d.py --Resolution 30 --Base 1 --TextA PATRIS --TextB PREDICTUM
 ```
+output ist "output.obj"
+
+### Ergebniss
+
+![IMG1](https://github.com/PATRISPREDICTUM/typographischer-Text-Generator/blob/master/Bilder/Bild1.png?raw=true)
+![IMG2](https://github.com/PATRISPREDICTUM/typographischer-Text-Generator/blob/master/Bilder/Bild2.png?raw=true)
+![IMG3](https://github.com/PATRISPREDICTUM/typographischer-Text-Generator/blob/master/Bilder/Bild3.png?raw=true)
+
 # Zukunft?
 Eventuell wird es eine verbesserte Version in C/C++ geben, jedoch kann ich nichts versprechen, da wir momentan wenig zeit haben ...
 Jedoch hat das Erstellen von diesem Projekt viel spaß gemacht
