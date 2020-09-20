@@ -1,4 +1,5 @@
 # typographischer-Text-Generator
+### Sorry für den unsaubern code! Es handelt sich nur um einen Prototypen
 kleines Python Projekt aus 2019 um 2 Texte zu einem 3d Modell zusammen zu fügen.
 Als output erhält man ein .obj file, welches beide Texte kombiniert
 
